@@ -18,4 +18,6 @@ N/A
 
 Follow [Link](https://z20axa.github.io/HTML_code-refactor/)
 
+![Repo SreenShot](/assets/images/deployed_site.png "Repo Screen Shot")
+
 
