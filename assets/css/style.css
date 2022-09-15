@@ -24,8 +24,8 @@ body {
     color: #d9dcd6;
 }
 
-/* <div> element eliminated from HTML and consolidated CSS selectors & properties */
-.header ul {
+/* <div> element eliminated from HTML and <nav> elemenet added; and consolidated CSS selectors & properties */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,7 +38,7 @@ body {
     list-style-type: none;
 } */
 
-.header ul li {
+.header nav li {
     display: inline-block;
     margin-left: 25px;
 }
